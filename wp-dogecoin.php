@@ -3,7 +3,7 @@
 Plugin Name: WP-DogeCoin
 Plugin URI: http://www.studionashvegas.com/plugins/wp-dogecoin
 Description: This plugin allows you to add your Dogecoin donation address to the bottom of your blog posts - automatically!
-Version: 1.0
+Version: 1.1
 Author: Mitch Canter
 Author URI: http://www.studionashvegas.com
 Author Email: mitch@studionashvegas.com
