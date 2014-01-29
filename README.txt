@@ -27,5 +27,6 @@ Q: Can I change the styles?
 A: YES!  The box style uses the \'.wpdc_box\' class.  The tooltip is a hyperlink that can be changed by targeting \'.wpdc_small a\'.
 
 == Changelog ==
+1.1: Typos, Missing Hyperlink
 1.0: WordPress Repo Time!
 0.1: Initial Version

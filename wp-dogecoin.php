@@ -20,7 +20,7 @@ function WPDogeCoinContent($content) {
 		$content .= 'Donate Dogecoins: <strong>';
 		$content .= get_option('wpdc_wallet_address');
 		$content .= '</strong> ';
-		$content .= '<span class="wpdc_small"><a href="http://dogecoin.com/" target="_blank">Whats This?</span>';
+		$content .= '<span class="wpdc_small"><a href="http://dogecoin.com/" target="_blank">Whats This?</a></span>';
 		$content .= '</div>';
 		return $content;
 	} else {
